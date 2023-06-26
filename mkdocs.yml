@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Flowmapper Docs
+
+theme:
+  name: material
+  palette:
+    primary: deep_orange
+    accent: amber
